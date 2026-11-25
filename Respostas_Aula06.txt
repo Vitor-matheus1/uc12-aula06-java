@@ -45,7 +45,3 @@ Arquivo: Atividade05.java
 DESAFIO DA AULA - Perfil do Desenvolvedor
 ====================================================================
 Arquivo: Desafio.java
-
-====================================================================
-AUTOAVALIAÇÃO E CHECKLIST DO ESTUDANTE
-====================================================================
