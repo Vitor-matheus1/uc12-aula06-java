@@ -5,6 +5,6 @@ public class Desafio {
         System.out.println("Nome: Vitor Matheus Menezes de Araújo");
         System.out.println("Cidade: Porto Alegre");
         System.out.println("Curso: Técnico em Informática");
-        System.out.println("Objetivo Profissional: Atuar com desenvolvimento de software e suporte em TI");
+        System.out.println("Objetivo Profissional: trabalhar em TI na UFRGS");
     }
 }
