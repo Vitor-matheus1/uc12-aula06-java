@@ -13,35 +13,3 @@ ATIVIDADE PRÁTICA 01 - Arquitetura Java
 
 3. Qual componente fornece ferramentas para desenvolvimento?
    Resposta: JDK (Java Development Kit / Kit de Desenvolvimento Java). Contém o JRE, a JVM, o compilador (javac) e demais ferramentas para desenvolver em Java.
-
-====================================================================
-ATIVIDADE PRÁTICA 02 - Primeiro Programa
-====================================================================
-Arquivo: Main.java
-Execução via botão Run no VS Code -> Saída exibida: Olá UC12
-
-====================================================================
-ATIVIDADE PRÁTICA 03 - Compilação Manual
-====================================================================
-Comando de compilação: javac Main.java
-Resultado: Criação automática do arquivo Main.class (bytecode) na pasta do projeto.
-Comando de execução: java Main
-Resultado exibido no terminal: Olá UC12
-
-====================================================================
-ATIVIDADE PRÁTICA 04 - Estrutura do Programa
-====================================================================
-Arquivo: Atividade04.java
-- Classe: public class Atividade04
-- Método main: public static void main(String[] args)
-- Comando de saída: System.out.println("Olá UC12");
-
-====================================================================
-ATIVIDADE PRÁTICA 05 - Personalizando a Saída
-====================================================================
-Arquivo: Atividade05.java
-
-====================================================================
-DESAFIO DA AULA - Perfil do Desenvolvedor
-====================================================================
-Arquivo: Desafio.java
